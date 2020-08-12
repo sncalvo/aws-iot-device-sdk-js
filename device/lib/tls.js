@@ -14,7 +14,8 @@
  */
 
 //node.js deps
-var tls = require('tls');
+// var tls = require('tls');
+var tls = {};
 
 //npm deps
 
